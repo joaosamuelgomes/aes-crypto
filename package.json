@@ -1,0 +1,11 @@
+{
+  "name": "aes-middleware",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx nodemon --exec node index.js"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
